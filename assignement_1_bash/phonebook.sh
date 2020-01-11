@@ -1,3 +1,4 @@
+
 #!/bin/bash
 optionstr="Usage:./phonebook.sh [OPTION] [NAME] [NUMBER]\n\n\n  -i:\tInsert new contact name and number\n  -v:\tView all saved contacts details\n  -s:\tSearch by contact name\n  -e:\tDelete all records\n  -d:\tDelete only one contact name"
 filename="/etc/phonebook/phonebook.txt"
